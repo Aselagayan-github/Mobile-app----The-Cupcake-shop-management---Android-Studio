@@ -23,4 +23,4 @@
 3) Login form
 <img src="New ss/UI/Admin ss/1.jpg" width="450"/>
 4) Register form
-<img src="New ss/UI/Admin ss/2.jpg width="450"/>
+<img src="New ss/UI/Admin ss/2.jpg" width="450"/>
